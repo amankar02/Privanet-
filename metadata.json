@@ -1,0 +1,6 @@
+{
+  "name": "CipherNet",
+  "description": "Decentralized, privacy-first social network and encrypted messaging with zero-knowledge data ownership.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
